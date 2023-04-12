@@ -1,3 +1,4 @@
+// Selects elements from the HTML DOM and assigns them to variables
 let noteTitle;
 let noteText;
 let saveNoteBtn;
