@@ -26,4 +26,4 @@ MIT
 
 GitHub: [anthonylieu](https://github.com/anthonylieu/)
 
-Email: anthonylieu1@gmail.comg
+Email: anthonylieu1@gmail.com
